@@ -1,0 +1,36 @@
+Leoni Game Play Instructions
+
+INSTALL:
+
+1) Press "Setup" to install the game.
+2) Press "LeoniV0.3.exe", that will play the game!
+
+INSTRUCTIONS:
+
+(Please note this game is unfinished and is still under construction)
+
+
+
+Move: ASDW keys
+
+Rotate: Mouse
+
+Angel Vision: Right Mouse Click
+
+Pick up Something: Left Mouse Click
+
+Scroll through selection list (on bottom left corner of the screen when you pick something up): Left/Right Arrow Keys
+
+Pause Screen: Esc
+
+
+
+
+CHEAT SHEET: 
+
+Energy Sources.  There is a bettery that can be almost directly bellow you when you start.  When you have the battery, left click near the solar panels, and you'll see the battery change colors.  Green means it's charged well, yellow means it's kinda charged, and red is if it's dead.
+
+Smoke-Stack Monster.  While this can't kill you yet, nor does the plamsa gun not "shoot" yet, you can see how the smoke stack monster, while you approach you, follows you and turns red.  Also, if you stay within the smoke stack monsters "range", you screen will start to fog up.  
+
+Angel Vision.  This allows you view energy in all forms in a differnt way.  For instance, the ground will not light up while in it, but a battery will.
+
