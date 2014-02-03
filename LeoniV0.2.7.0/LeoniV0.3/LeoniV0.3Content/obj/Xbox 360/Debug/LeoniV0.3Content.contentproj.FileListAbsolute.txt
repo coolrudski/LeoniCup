@@ -1,0 +1,2 @@
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

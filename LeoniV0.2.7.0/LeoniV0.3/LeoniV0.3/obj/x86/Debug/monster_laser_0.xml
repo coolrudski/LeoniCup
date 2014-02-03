@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Circle_005</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3Content\monster_laser.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>8.636415E-09 -0.114392787 0 0 0 0 -0.114392787 0 0.114392787 8.636415E-09 0 0 2.937553 21.1005249 -1.36432612 1</Transform>
+    <Positions>0 1 0 0.707107 0.707107 0 1 -0 0 0.707107 -0.707107 0 -0 -1 0 -0.707107 -0.707107 0 -1 0 0 -0.707107 0.707107 0 -0.707067 0.707107 524.908447 -0.99996 0 524.908447 -0.707067 -0.707107 524.908447 4E-05 -1 524.908447 0.707146 -0.707107 524.908447 1.00004 -0 524.908447 0.707146 0.707107 524.908447 4E-05 1 524.908447</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 5 4 1 1 2 5 7 6 4 4 8 7 7 10 9 9 6 7 12 11 9 9 10 12 14 13 11 11 12 14 14 16 15 15 13 14 16 3 0 0 15 16</Indices>
+        <Vertices>
+          <PositionIndices>0 7 8 15 6 9 5 10 9 4 11 3 12 2 13 1 14</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 1 0 -0.707083344 0.707083344 0 -0.707083344 0.707083344 0 0 1 0 -1 0 0 -1 0 0 -0.707083344 -0.707083344 0 -0.707083344 -0.707083344 0 -1 0 0 0 -1 0 0 -1 0 0.707083344 -0.707083344 0 0.707083344 -0.707083344 0 1 0 0 1 0 0 0.707083344 0.707083344 0 0.707083344 0.707083344 0</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.69065 0.0166 0.690656 0.013754 0.653918 0.996618 0.653925 0.999464 0.690687 0.012088 0.653887 0.994952 0.690725 0.012577 0.727494 0.995442 0.727532 0.994952 0.690747 0.014936 0.727472 0.9978 0.690741 0.017782 0.727479 1.000647 0.690709 0.019449 0.72751 1.002313 0.690672 0.018959 0.653903 1.001823</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>None__laser_tex_png</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3Content\monster_laser.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.160000011 0.160000011 0.160000011</Data>
+        <Data Key="SpecularPower" Type="float">80</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\LeoniV0.3Content\laser_tex.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

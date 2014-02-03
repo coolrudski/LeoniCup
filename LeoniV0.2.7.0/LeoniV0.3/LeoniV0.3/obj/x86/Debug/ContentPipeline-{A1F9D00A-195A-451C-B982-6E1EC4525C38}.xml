@@ -1,0 +1,1484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ground2.jpg</Source>
+      <Name>Ground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Ground2.xnb</Output>
+      <Time>2012-01-28T20:19:24.811343-05:00</Time>
+    </Item>
+    <Item>
+      <Source>lightjpg.jpg</Source>
+      <Name>lightjpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\lightjpg.xnb</Output>
+      <Time>2011-11-11T23:24:26.8702908-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Sand1.jpg</Source>
+      <Name>MainMenu\Sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Sand1.xnb</Output>
+      <Time>2012-01-28T20:02:26.8361181-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Gravel.jpg</Source>
+      <Name>Level1Terrain\Gravel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Gravel.xnb</Output>
+      <Time>2012-01-28T20:04:09.4309862-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GrassImage2.jpg</Source>
+      <Name>GrassImage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\GrassImage2.xnb</Output>
+      <Time>2012-01-28T20:04:57.6947468-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bumpmap.jpg</Source>
+      <Name>Bumpmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Bumpmap.xnb</Output>
+      <Time>2012-01-28T20:18:17.9665197-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\metal_seamless.jpg</Source>
+      <Name>Level1Terrain\metal_seamless</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\metal_seamless.xnb</Output>
+      <Time>2012-01-28T20:05:50.9987956-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MapArrow.png</Source>
+      <Name>MapArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MapArrow.xnb</Output>
+      <Time>2011-12-28T09:59:27.4347908-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\foglihten_48.bmp</Source>
+      <Name>Fonts\foglihten_48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Fonts\foglihten_48.xnb</Output>
+      <Time>2012-01-06T20:02:11.785559-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\rust.jpg</Source>
+      <Name>Level1Terrain\rust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\rust.xnb</Output>
+      <Time>2011-12-31T11:34:32.6495442-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Plasma.jpg</Source>
+      <Name>Level1Terrain\Plasma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Plasma.xnb</Output>
+      <Time>2012-01-02T19:13:22.6098664-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Sand1_Grad.jpg</Source>
+      <Name>MainMenu\Sand1_Grad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Sand1_Grad.xnb</Output>
+      <Time>2012-01-28T20:06:18.0903451-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LeafPedal.jpg</Source>
+      <Name>LeafPedal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\LeafPedal.xnb</Output>
+      <Time>2012-01-28T20:21:35.88484-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose_Texture.jpg</Source>
+      <Name>MainMenu\Rose_Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Rose_Texture.xnb</Output>
+      <Time>2012-01-28T20:06:43.5518014-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sand1.jpg</Source>
+      <Name>Sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Sand1.xnb</Output>
+      <Time>2012-01-28T20:01:53.614218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Sand1.jpg</Source>
+      <Name>Level1Terrain\Sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Sand1.xnb</Output>
+      <Time>2012-01-28T20:02:34.0705319-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere_tex.jpg</Source>
+      <Name>sphere_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\sphere_tex.xnb</Output>
+      <Time>2012-01-19T11:42:10.8388613-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\HealthBar.xnb</Output>
+      <Time>2012-01-28T20:21:22.5380766-05:00</Time>
+    </Item>
+    <Item>
+      <Source>health_bar_green.png</Source>
+      <Name>health_bar_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\health_bar_green.xnb</Output>
+      <Time>2012-01-28T20:19:42.0113268-05:00</Time>
+    </Item>
+    <Item>
+      <Source>health_green.png</Source>
+      <Name>health_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\health_green.xnb</Output>
+      <Time>2012-01-22T21:09:30.2628516-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel_tex.png</Source>
+      <Name>SolarPanel_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\SolarPanel_tex.xnb</Output>
+      <Time>2012-01-24T16:11:02.0953594-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rust1.jpg</Source>
+      <Name>rust1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\rust1.xnb</Output>
+      <Time>2012-01-28T20:07:17.6157498-05:00</Time>
+    </Item>
+    <Item>
+      <Source>VoltMeter_tex.jpg</Source>
+      <Name>VoltMeter_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\VoltMeter_tex.xnb</Output>
+      <Time>2012-01-28T20:08:14.055978-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Battery_tex.jpg</Source>
+      <Name>Battery_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Battery_tex.xnb</Output>
+      <Time>2012-01-28T17:35:32.8559873-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Gravel.jpg</Source>
+      <Name>Gravel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Gravel.xnb</Output>
+      <Time>2012-01-28T20:03:59.9584444-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\battery_logo.png</Source>
+      <Name>Logos\battery_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Logos\battery_logo.xnb</Output>
+      <Time>2012-01-29T13:27:07.3084106-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\Voltmeter_logo.png</Source>
+      <Name>Logos\Voltmeter_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Logos\Voltmeter_logo.xnb</Output>
+      <Time>2012-01-29T13:48:25.8735347-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\arrow.png</Source>
+      <Name>Logos\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Logos\arrow.xnb</Output>
+      <Time>2012-01-29T14:16:17.8421659-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LED_REAL.bmp</Source>
+      <Name>LED_REAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\LED_REAL.xnb</Output>
+      <Time>2012-02-01T20:30:22.69533-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LED_REAL.bmp</Source>
+      <Name>Fonts\LED_REAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Fonts\LED_REAL.xnb</Output>
+      <Time>2012-02-01T20:37:16.9600246-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GlowSphere_white.png</Source>
+      <Name>GlowSphere_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\GlowSphere_white.xnb</Output>
+      <Time>2012-02-04T09:55:00.8318359-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex_no_lines.jpg</Source>
+      <Name>Level1Terrain\Wood_tex_no_lines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wood_tex_no_lines.xnb</Output>
+      <Time>2012-02-05T12:03:16.5456043-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wire_Rough.jpg</Source>
+      <Name>Level1Terrain\Wire_Rough</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wire_Rough.xnb</Output>
+      <Time>2012-02-05T12:26:36.0116492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wood_tex.jpg</Source>
+      <Name>Wood_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Wood_tex.xnb</Output>
+      <Time>2012-02-05T14:46:39.5502946-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex.jpg</Source>
+      <Name>Level1Terrain\Wood_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wood_tex.xnb</Output>
+      <Time>2012-02-05T14:49:06.6407077-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye_Tex.jpg</Source>
+      <Name>Eye_Tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Eye_Tex.xnb</Output>
+      <Time>2012-02-07T21:20:52.0864778-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Metal_1.jpg</Source>
+      <Name>Metal_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Metal_1.xnb</Output>
+      <Time>2012-02-07T21:12:31.0368194-05:00</Time>
+    </Item>
+    <Item>
+      <Source>the_moon.jpg</Source>
+      <Name>the_moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\the_moon.xnb</Output>
+      <Time>2012-02-13T16:59:32.1464453-05:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_tex.png</Source>
+      <Name>laser_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\laser_tex.xnb</Output>
+      <Time>2012-02-13T19:13:51.2834015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud_1.png</Source>
+      <Name>Cloud_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Cloud_1.xnb</Output>
+      <Time>2012-02-13T20:10:09.0395981-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Smoky_Screen.jpg</Source>
+      <Name>Smoky_Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Smoky_Screen.xnb</Output>
+      <Time>2012-02-22T13:38:27.0298744-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Aim_Cross.png</Source>
+      <Name>Aim_Cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Aim_Cross.xnb</Output>
+      <Time>2012-02-23T18:22:40.720087-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Effect.fx</Source>
+      <Name>Effects\Effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Effects\Effect.xnb</Output>
+      <Time>2012-02-22T12:44:51.6649661-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\PostEffects.fx</Source>
+      <Name>Effects\PostEffects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Effects\PostEffects.xnb</Output>
+      <Time>2012-04-10T21:25:20.2609944-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Carthenge.fbx</Source>
+      <Name>Level1Terrain\Carthenge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Carthenge.xnb</Output>
+      <Time>2012-04-01T16:43:21.5849584-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\Carthenge_0.xml</Key>
+        <Value>2012-04-01T16:43:22.7810268-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Sand1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>test_plane.fbx</Source>
+      <Name>test_plane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\test_plane.xnb</Output>
+      <Time>2011-12-27T18:25:05.4502287-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\test_plane_0.xml</Key>
+        <Value>2012-03-11T09:32:29.37682-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Sand1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\road.fbx</Source>
+      <Name>Level1Terrain\road</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\road.xnb</Output>
+      <Time>2012-04-01T16:43:21.3619457-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\road_0.xml</Key>
+        <Value>2012-04-01T16:43:23.9500937-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Gravel_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>grass_sand.fbx</Source>
+      <Name>grass_sand</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\grass_sand.xnb</Output>
+      <Time>2011-12-27T18:26:00.7863937-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\grass_sand_0.xml</Key>
+        <Value>2012-03-11T09:32:30.1328632-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\GrassImage2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck.fbx</Source>
+      <Name>Level1Terrain\truck</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\truck.xnb</Output>
+      <Time>2011-12-27T18:25:20.2970779-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\truck_0.xml</Key>
+        <Value>2012-03-11T09:32:31.8719627-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\metal_seamless_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\oil_barrel.fbx</Source>
+      <Name>Level1Terrain\oil_barrel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\oil_barrel.xnb</Output>
+      <Time>2012-01-01T12:26:43.2552759-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\oil_barrel_0.xml</Key>
+        <Value>2012-03-11T09:32:32.6010044-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\rust_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>cube.fbx</Source>
+      <Name>cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\cube.xnb</Output>
+      <Time>2012-01-03T17:54:10.9123138-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\cube_0.xml</Key>
+        <Value>2012-03-11T09:32:33.1790375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>MainMenu\MainMenu.fbx</Source>
+      <Name>MainMenu\MainMenu</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\MainMenu.xnb</Output>
+      <Time>2012-01-28T19:52:34.4032329-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\MainMenu\MainMenu_0.xml</Key>
+        <Value>2012-03-11T09:32:33.2700427-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Sand1_Grad_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose.fbx</Source>
+      <Name>MainMenu\Rose</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Rose.xnb</Output>
+      <Time>2012-01-28T19:53:36.0117567-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\MainMenu\Rose_0.xml</Key>
+        <Value>2012-03-11T09:32:33.887078-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Rose_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck002.fbx</Source>
+      <Name>Level1Terrain\truck002</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\truck002.xnb</Output>
+      <Time>2012-01-28T19:55:44.8041232-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\truck002_0.xml</Key>
+        <Value>2012-03-11T09:32:35.6071763-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\metal_seamless_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sphere.fbx</Source>
+      <Name>sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\sphere.xnb</Output>
+      <Time>2012-01-19T11:47:56.3226218-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\sphere_0.xml</Key>
+        <Value>2012-03-11T09:32:35.7481844-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\sphere_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SolarPanel.fbx</Source>
+      <Name>SolarPanel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\SolarPanel.xnb</Output>
+      <Time>2012-01-26T22:34:11.9543065-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\SolarPanel_0.xml</Key>
+        <Value>2012-03-11T09:32:36.353219-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\SolarPanel_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SolarPanel_Legs.fbx</Source>
+      <Name>SolarPanel_Legs</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\SolarPanel_Legs.xnb</Output>
+      <Time>2012-01-26T22:34:30.3143566-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\SolarPanel_Legs_0.xml</Key>
+        <Value>2012-03-11T09:32:37.0392582-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\rust1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>voltmeter.fbx</Source>
+      <Name>voltmeter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\voltmeter.xnb</Output>
+      <Time>2012-01-25T15:55:09.5226727-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\voltmeter_0.xml</Key>
+        <Value>2012-03-11T09:32:37.6862953-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\VoltMeter_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>battery.fbx</Source>
+      <Name>battery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\battery.xnb</Output>
+      <Time>2012-01-28T19:56:52.899018-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\battery_0.xml</Key>
+        <Value>2012-03-11T09:32:38.3273319-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Battery_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>GlowSphere.fbx</Source>
+      <Name>GlowSphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\GlowSphere.xnb</Output>
+      <Time>2012-02-04T09:55:38.248976-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\GlowSphere_0.xml</Key>
+        <Value>2012-03-11T09:32:38.5893469-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\GlowSphere_white_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_poles.fbx</Source>
+      <Name>Level1Terrain\power_poles</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\power_poles.xnb</Output>
+      <Time>2012-04-01T16:43:21.7289667-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\power_poles_0.xml</Key>
+        <Value>2012-04-01T16:43:24.6441334-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wood_tex_no_lines_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_lines.fbx</Source>
+      <Name>Level1Terrain\power_lines</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\power_lines.xnb</Output>
+      <Time>2012-04-01T16:43:21.804971-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\power_lines_0.xml</Key>
+        <Value>2012-04-01T16:43:25.563186-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wire_Rough_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\house1.fbx</Source>
+      <Name>Level1Terrain\house1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\house1.xnb</Output>
+      <Time>2012-04-01T16:43:21.5099541-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\house1_0.xml</Key>
+        <Value>2012-04-01T16:43:26.15822-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wood_tex_0.xnb</Request>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wood_tex_no_lines_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticbase.fbx</Source>
+      <Name>smokemonster_staticbase</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\smokemonster_staticbase.xnb</Output>
+      <Time>2012-04-01T16:43:21.6569625-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\smokemonster_staticbase_0.xml</Key>
+        <Value>2012-04-01T16:43:26.7962565-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\rust1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticeye.fbx</Source>
+      <Name>smokemonster_staticeye</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\smokemonster_staticeye.xnb</Output>
+      <Time>2012-04-01T16:43:21.2159373-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\smokemonster_staticeye_0.xml</Key>
+        <Value>2012-04-01T16:43:26.8872617-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Eye_Tex_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>smokemonster_statichead.fbx</Source>
+      <Name>smokemonster_statichead</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\smokemonster_statichead.xnb</Output>
+      <Time>2012-04-01T16:43:21.1159316-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\smokemonster_statichead_0.xml</Key>
+        <Value>2012-04-01T16:43:27.4662948-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\rust1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>moon.fbx</Source>
+      <Name>moon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\moon.xnb</Output>
+      <Time>2012-02-13T16:57:46.1983854-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\moon_0.xml</Key>
+        <Value>2012-03-11T09:32:42.3105598-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\the_moon_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>plasma_gun.fbx</Source>
+      <Name>plasma_gun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\plasma_gun.xnb</Output>
+      <Time>2012-02-13T18:17:15.9341987-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\plasma_gun_0.xml</Key>
+        <Value>2012-03-11T09:32:42.9185945-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Metal_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>monster_laser.fbx</Source>
+      <Name>monster_laser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\monster_laser.xnb</Output>
+      <Time>2012-04-01T16:43:21.2889415-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\monster_laser_0.xml</Key>
+        <Value>2012-04-01T16:43:27.5512997-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\laser_tex_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Cloud1.fbx</Source>
+      <Name>Cloud1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Cloud1.xnb</Output>
+      <Time>2012-02-13T19:42:16.2049175-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Cloud1_0.xml</Key>
+        <Value>2012-03-11T09:32:44.3096741-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Cloud_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Jail_House1.fbx</Source>
+      <Name>Level1Terrain\Jail_House1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Jail_House1.xnb</Output>
+      <Time>2012-04-01T16:43:21.4359499-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\Jail_House1_0.xml</Key>
+        <Value>2012-04-01T16:43:28.3213437-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Gravel_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Voice-Overs\Intro.wav</Source>
+      <Name>Voice-Overs\Intro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Voice-Overs\Intro.xnb</Output>
+      <Time>2011-12-29T20:41:17.5522926-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\elegy.mp3</Source>
+      <Name>Music\elegy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Music\elegy.xnb</Output>
+      <Extra>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Music\elegy.wma</Extra>
+      <Time>2011-12-29T20:49:01.9268533-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Broken World.mp3</Source>
+      <Name>Music\Broken World</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Music\Broken World.xnb</Output>
+      <Extra>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Music\Broken World.wma</Extra>
+      <Time>2012-01-23T13:36:20.0933793-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Carthenge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\Carthenge_0.xml</Output>
+      <Time>2012-04-01T16:43:21.5849584-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sand1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Sand1_0.xnb</Output>
+      <Time>2012-01-28T20:01:53.614218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>test_plane.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\test_plane_0.xml</Output>
+      <Time>2011-12-27T18:25:05.4502287-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\road.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\road_0.xml</Output>
+      <Time>2012-04-01T16:43:21.3619457-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grass_sand.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\grass_sand_0.xml</Output>
+      <Time>2011-12-27T18:26:00.7863937-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GrassImage2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\GrassImage2_0.xnb</Output>
+      <Time>2012-01-28T20:04:57.6947468-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\truck_0.xml</Output>
+      <Time>2011-12-27T18:25:20.2970779-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\metal_seamless.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\metal_seamless_0.xnb</Output>
+      <Time>2012-01-28T20:05:50.9987956-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\oil_barrel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\oil_barrel_0.xml</Output>
+      <Time>2012-01-01T12:26:43.2552759-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\rust.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\rust_0.xnb</Output>
+      <Time>2011-12-31T11:34:32.6495442-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\cube_0.xml</Output>
+      <Time>2012-01-03T17:54:10.9123138-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\MainMenu.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\MainMenu\MainMenu_0.xml</Output>
+      <Time>2012-01-28T19:52:34.4032329-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Sand1_Grad.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Sand1_Grad_0.xnb</Output>
+      <Time>2012-01-28T20:06:18.0903451-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\MainMenu\Rose_0.xml</Output>
+      <Time>2012-01-28T19:53:36.0117567-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose_Texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\MainMenu\Rose_Texture_0.xnb</Output>
+      <Time>2012-01-28T20:06:43.5518014-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck002.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\truck002_0.xml</Output>
+      <Time>2012-01-28T19:55:44.8041232-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\sphere_0.xml</Output>
+      <Time>2012-01-19T11:47:56.3226218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\sphere_tex_0.xnb</Output>
+      <Time>2012-01-19T11:42:10.8388613-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\SolarPanel_0.xml</Output>
+      <Time>2012-01-26T22:34:11.9543065-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\SolarPanel_tex_0.xnb</Output>
+      <Time>2012-01-24T16:11:02.0953594-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel_Legs.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\SolarPanel_Legs_0.xml</Output>
+      <Time>2012-01-26T22:34:30.3143566-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rust1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\rust1_0.xnb</Output>
+      <Time>2012-01-28T20:07:17.6157498-05:00</Time>
+    </Item>
+    <Item>
+      <Source>voltmeter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\voltmeter_0.xml</Output>
+      <Time>2012-01-25T15:55:09.5226727-05:00</Time>
+    </Item>
+    <Item>
+      <Source>VoltMeter_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\VoltMeter_tex_0.xnb</Output>
+      <Time>2012-01-28T20:08:14.055978-05:00</Time>
+    </Item>
+    <Item>
+      <Source>battery.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\battery_0.xml</Output>
+      <Time>2012-01-28T19:56:52.899018-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Battery_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Battery_tex_0.xnb</Output>
+      <Time>2012-01-28T17:35:32.8559873-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GlowSphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\GlowSphere_0.xml</Output>
+      <Time>2012-02-04T09:55:38.248976-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GlowSphere_white.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\GlowSphere_white_0.xnb</Output>
+      <Time>2012-02-04T09:55:00.8318359-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_poles.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\power_poles_0.xml</Output>
+      <Time>2012-04-01T16:43:21.7289667-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_lines.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\power_lines_0.xml</Output>
+      <Time>2012-04-01T16:43:21.804971-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\house1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\house1_0.xml</Output>
+      <Time>2012-04-01T16:43:21.5099541-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticbase.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\smokemonster_staticbase_0.xml</Output>
+      <Time>2012-04-01T16:43:21.6569625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticeye.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\smokemonster_staticeye_0.xml</Output>
+      <Time>2012-04-01T16:43:21.2159373-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smokemonster_statichead.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\smokemonster_statichead_0.xml</Output>
+      <Time>2012-04-01T16:43:21.1159316-04:00</Time>
+    </Item>
+    <Item>
+      <Source>moon.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\moon_0.xml</Output>
+      <Time>2012-02-13T16:57:46.1983854-05:00</Time>
+    </Item>
+    <Item>
+      <Source>the_moon.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\the_moon_0.xnb</Output>
+      <Time>2012-02-13T16:59:32.1464453-05:00</Time>
+    </Item>
+    <Item>
+      <Source>plasma_gun.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\plasma_gun_0.xml</Output>
+      <Time>2012-02-13T18:17:15.9341987-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Metal_1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Metal_1_0.xnb</Output>
+      <Time>2012-02-07T21:12:31.0368194-05:00</Time>
+    </Item>
+    <Item>
+      <Source>monster_laser.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\monster_laser_0.xml</Output>
+      <Time>2012-04-01T16:43:21.2889415-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Cloud1_0.xml</Output>
+      <Time>2012-02-13T19:42:16.2049175-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud_1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Cloud_1_0.xnb</Output>
+      <Time>2012-02-13T20:10:09.0395981-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Jail_House1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Level1Terrain\Jail_House1_0.xml</Output>
+      <Time>2012-04-01T16:43:21.4359499-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Sand1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Sand1_0.xnb</Output>
+      <Time>2012-01-28T20:02:34.0705319-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Gravel.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Gravel_0.xnb</Output>
+      <Time>2012-01-28T20:04:09.4309862-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex_no_lines.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wood_tex_no_lines_0.xnb</Output>
+      <Time>2012-02-05T12:03:16.5456043-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wire_Rough.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wire_Rough_0.xnb</Output>
+      <Time>2012-02-05T12:26:36.0116492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Level1Terrain\Wood_tex_0.xnb</Output>
+      <Time>2012-02-05T14:49:06.6407077-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye_Tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Eye_Tex_1.xnb</Output>
+      <Time>2012-02-07T21:20:52.0864778-05:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\laser_tex_1.xnb</Output>
+      <Time>2012-02-13T19:13:51.2834015-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blood_Outside.png</Source>
+      <Name>Blood_Outside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Blood_Outside.xnb</Output>
+      <Time>2012-04-10T21:26:47.7840115-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Text_Box.png</Source>
+      <Name>Text_Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Text_Box.xnb</Output>
+      <Time>2012-04-23T22:04:39.5024171-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LiAirBattery.fbx</Source>
+      <Name>LiAirBattery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\LiAirBattery.xnb</Output>
+      <Time>2012-04-11T17:17:49.2935944-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\LiAirBattery_0.xml</Key>
+        <Value>2012-04-11T17:17:53.9248593-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Metal_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>LiAirBattery.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\LiAirBattery_0.xml</Output>
+      <Time>2012-04-11T17:17:49.2935944-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere_tex.png</Source>
+      <Name>Dark_Sphere_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Dark_Sphere_tex.xnb</Output>
+      <Time>2012-04-22T20:05:46.2515201-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere.fbx</Source>
+      <Name>Dark_Sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Dark_Sphere.xnb</Output>
+      <Time>2012-04-22T20:08:01.2122395-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Dark_Sphere_0.xml</Key>
+        <Value>2012-04-22T20:08:08.4216518-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Dark_Sphere_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\Dark_Sphere_0.xml</Output>
+      <Time>2012-04-22T20:08:01.2122395-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\Dark_Sphere_tex_0.xnb</Output>
+      <Time>2012-04-22T20:05:46.2515201-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A1F9D00A-195A-451C-B982-6E1EC4525C38}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2012-01-20T11:12:35.207574-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll</Key>
+        <Value>2012-01-20T11:12:35.0195633-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-18T20:17:31.0655997-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

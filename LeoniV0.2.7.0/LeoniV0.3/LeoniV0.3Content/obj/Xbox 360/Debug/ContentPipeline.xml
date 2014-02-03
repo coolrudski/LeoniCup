@@ -1,0 +1,1483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ground2.jpg</Source>
+      <Name>Ground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Ground2.xnb</Output>
+      <Time>2012-01-28T20:19:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>lightjpg.jpg</Source>
+      <Name>lightjpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\lightjpg.xnb</Output>
+      <Time>2011-11-11T23:24:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Sand1.jpg</Source>
+      <Name>MainMenu\Sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Sand1.xnb</Output>
+      <Time>2012-01-28T20:02:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Gravel.jpg</Source>
+      <Name>Level1Terrain\Gravel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Gravel.xnb</Output>
+      <Time>2012-01-28T20:04:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GrassImage2.jpg</Source>
+      <Name>GrassImage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\GrassImage2.xnb</Output>
+      <Time>2012-01-28T20:04:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bumpmap.jpg</Source>
+      <Name>Bumpmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Bumpmap.xnb</Output>
+      <Time>2012-01-28T20:18:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\metal_seamless.jpg</Source>
+      <Name>Level1Terrain\metal_seamless</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\metal_seamless.xnb</Output>
+      <Time>2012-01-28T20:05:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MapArrow.png</Source>
+      <Name>MapArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MapArrow.xnb</Output>
+      <Time>2011-12-28T09:59:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\foglihten_48.bmp</Source>
+      <Name>Fonts\foglihten_48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Fonts\foglihten_48.xnb</Output>
+      <Time>2012-01-06T20:02:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\rust.jpg</Source>
+      <Name>Level1Terrain\rust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\rust.xnb</Output>
+      <Time>2011-12-31T11:34:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Plasma.jpg</Source>
+      <Name>Level1Terrain\Plasma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Plasma.xnb</Output>
+      <Time>2012-01-02T19:13:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Sand1_Grad.jpg</Source>
+      <Name>MainMenu\Sand1_Grad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Sand1_Grad.xnb</Output>
+      <Time>2012-01-28T20:06:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LeafPedal.jpg</Source>
+      <Name>LeafPedal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\LeafPedal.xnb</Output>
+      <Time>2012-01-28T20:21:35-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose_Texture.jpg</Source>
+      <Name>MainMenu\Rose_Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Rose_Texture.xnb</Output>
+      <Time>2012-01-28T20:06:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sand1.jpg</Source>
+      <Name>Sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Sand1.xnb</Output>
+      <Time>2012-01-28T20:01:53-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Sand1.jpg</Source>
+      <Name>Level1Terrain\Sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Sand1.xnb</Output>
+      <Time>2012-01-28T20:02:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere_tex.jpg</Source>
+      <Name>sphere_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\sphere_tex.xnb</Output>
+      <Time>2012-01-19T11:42:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\HealthBar.xnb</Output>
+      <Time>2012-01-28T20:21:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>health_bar_green.png</Source>
+      <Name>health_bar_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\health_bar_green.xnb</Output>
+      <Time>2012-01-28T20:19:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>health_green.png</Source>
+      <Name>health_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\health_green.xnb</Output>
+      <Time>2012-01-22T21:09:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel_tex.png</Source>
+      <Name>SolarPanel_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\SolarPanel_tex.xnb</Output>
+      <Time>2012-01-24T16:11:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rust1.jpg</Source>
+      <Name>rust1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\rust1.xnb</Output>
+      <Time>2012-01-28T20:07:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>VoltMeter_tex.jpg</Source>
+      <Name>VoltMeter_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\VoltMeter_tex.xnb</Output>
+      <Time>2012-01-28T20:08:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Battery_tex.jpg</Source>
+      <Name>Battery_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Battery_tex.xnb</Output>
+      <Time>2012-01-28T17:35:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Gravel.jpg</Source>
+      <Name>Gravel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Gravel.xnb</Output>
+      <Time>2012-01-28T20:03:59-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\battery_logo.png</Source>
+      <Name>Logos\battery_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Logos\battery_logo.xnb</Output>
+      <Time>2012-01-29T13:27:07-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\Voltmeter_logo.png</Source>
+      <Name>Logos\Voltmeter_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Logos\Voltmeter_logo.xnb</Output>
+      <Time>2012-01-29T13:48:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\arrow.png</Source>
+      <Name>Logos\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Logos\arrow.xnb</Output>
+      <Time>2012-01-29T14:16:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LED_REAL.bmp</Source>
+      <Name>LED_REAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\LED_REAL.xnb</Output>
+      <Time>2012-02-01T20:30:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LED_REAL.bmp</Source>
+      <Name>Fonts\LED_REAL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Fonts\LED_REAL.xnb</Output>
+      <Time>2012-02-01T20:37:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GlowSphere_white.png</Source>
+      <Name>GlowSphere_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\GlowSphere_white.xnb</Output>
+      <Time>2012-02-04T09:55:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex_no_lines.jpg</Source>
+      <Name>Level1Terrain\Wood_tex_no_lines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wood_tex_no_lines.xnb</Output>
+      <Time>2012-02-05T12:03:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wire_Rough.jpg</Source>
+      <Name>Level1Terrain\Wire_Rough</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wire_Rough.xnb</Output>
+      <Time>2012-02-05T12:26:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wood_tex.jpg</Source>
+      <Name>Wood_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Wood_tex.xnb</Output>
+      <Time>2012-02-05T14:46:39-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex.jpg</Source>
+      <Name>Level1Terrain\Wood_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wood_tex.xnb</Output>
+      <Time>2012-02-05T14:49:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye_Tex.jpg</Source>
+      <Name>Eye_Tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Eye_Tex.xnb</Output>
+      <Time>2012-02-07T21:20:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Metal_1.jpg</Source>
+      <Name>Metal_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Metal_1.xnb</Output>
+      <Time>2012-02-07T21:12:31-05:00</Time>
+    </Item>
+    <Item>
+      <Source>the_moon.jpg</Source>
+      <Name>the_moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\the_moon.xnb</Output>
+      <Time>2012-02-13T16:59:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_tex.png</Source>
+      <Name>laser_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\laser_tex.xnb</Output>
+      <Time>2012-02-13T19:13:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud_1.png</Source>
+      <Name>Cloud_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Cloud_1.xnb</Output>
+      <Time>2012-02-13T20:10:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Smoky_Screen.jpg</Source>
+      <Name>Smoky_Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Smoky_Screen.xnb</Output>
+      <Time>2012-02-22T13:38:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Aim_Cross.png</Source>
+      <Name>Aim_Cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Aim_Cross.xnb</Output>
+      <Time>2012-02-23T18:22:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blood_Outside.png</Source>
+      <Name>Blood_Outside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Blood_Outside.xnb</Output>
+      <Time>2012-04-10T21:26:47-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Text_Box.png</Source>
+      <Name>Text_Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Text_Box.xnb</Output>
+      <Time>2012-04-23T22:04:39-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere_tex.png</Source>
+      <Name>Dark_Sphere_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Dark_Sphere_tex.xnb</Output>
+      <Time>2012-04-22T20:05:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Effect.fx</Source>
+      <Name>Effects\Effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Effects\Effect.xnb</Output>
+      <Time>2012-02-22T12:44:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\PostEffects.fx</Source>
+      <Name>Effects\PostEffects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Effects\PostEffects.xnb</Output>
+      <Time>2012-04-10T21:25:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Carthenge.fbx</Source>
+      <Name>Level1Terrain\Carthenge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Carthenge.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\Carthenge_0.xml</Key>
+        <Value>2012-04-23T22:59:50.9914517-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Sand1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>test_plane.fbx</Source>
+      <Name>test_plane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\test_plane.xnb</Output>
+      <Time>2011-12-27T18:25:05-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\test_plane_0.xml</Key>
+        <Value>2012-04-23T22:59:52.0565126-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Sand1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\road.fbx</Source>
+      <Name>Level1Terrain\road</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\road.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\road_0.xml</Key>
+        <Value>2012-04-23T22:59:53.0475693-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Gravel_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>grass_sand.fbx</Source>
+      <Name>grass_sand</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\grass_sand.xnb</Output>
+      <Time>2011-12-27T18:26:00-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\grass_sand_0.xml</Key>
+        <Value>2012-04-23T22:59:53.8736166-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\GrassImage2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck.fbx</Source>
+      <Name>Level1Terrain\truck</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\truck.xnb</Output>
+      <Time>2011-12-27T18:25:20-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\truck_0.xml</Key>
+        <Value>2012-04-23T22:59:55.944735-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\metal_seamless_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\oil_barrel.fbx</Source>
+      <Name>Level1Terrain\oil_barrel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\oil_barrel.xnb</Output>
+      <Time>2012-01-01T12:26:43-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\oil_barrel_0.xml</Key>
+        <Value>2012-04-23T22:59:57.0647991-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\rust_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>cube.fbx</Source>
+      <Name>cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\cube.xnb</Output>
+      <Time>2012-01-03T17:54:10-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\cube_0.xml</Key>
+        <Value>2012-04-23T22:59:57.9848517-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>MainMenu\MainMenu.fbx</Source>
+      <Name>MainMenu\MainMenu</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\MainMenu.xnb</Output>
+      <Time>2012-01-28T19:52:34-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\MainMenu\MainMenu_0.xml</Key>
+        <Value>2012-04-23T22:59:58.0908578-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Sand1_Grad_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose.fbx</Source>
+      <Name>MainMenu\Rose</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Rose.xnb</Output>
+      <Time>2012-01-28T19:53:36-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\MainMenu\Rose_0.xml</Key>
+        <Value>2012-04-23T22:59:59.1189166-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Rose_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck002.fbx</Source>
+      <Name>Level1Terrain\truck002</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\truck002.xnb</Output>
+      <Time>2012-01-28T19:55:44-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\truck002_0.xml</Key>
+        <Value>2012-04-23T23:00:01.4200482-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\metal_seamless_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sphere.fbx</Source>
+      <Name>sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\sphere.xnb</Output>
+      <Time>2012-01-19T11:47:56-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\sphere_0.xml</Key>
+        <Value>2012-04-23T23:00:01.8660737-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\sphere_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SolarPanel.fbx</Source>
+      <Name>SolarPanel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\SolarPanel.xnb</Output>
+      <Time>2012-01-26T22:34:11-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\SolarPanel_0.xml</Key>
+        <Value>2012-04-23T23:00:02.7401237-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\SolarPanel_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SolarPanel_Legs.fbx</Source>
+      <Name>SolarPanel_Legs</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\SolarPanel_Legs.xnb</Output>
+      <Time>2012-01-26T22:34:30-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\SolarPanel_Legs_0.xml</Key>
+        <Value>2012-04-23T23:00:03.6631765-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\rust1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>voltmeter.fbx</Source>
+      <Name>voltmeter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\voltmeter.xnb</Output>
+      <Time>2012-01-25T15:55:09-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\voltmeter_0.xml</Key>
+        <Value>2012-04-23T23:00:04.494224-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\VoltMeter_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>battery.fbx</Source>
+      <Name>battery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\battery.xnb</Output>
+      <Time>2012-01-28T19:56:52-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\battery_0.xml</Key>
+        <Value>2012-04-23T23:00:05.3372722-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Battery_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>GlowSphere.fbx</Source>
+      <Name>GlowSphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\GlowSphere.xnb</Output>
+      <Time>2012-02-04T09:55:38-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\GlowSphere_0.xml</Key>
+        <Value>2012-04-23T23:00:05.7972986-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\GlowSphere_white_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_poles.fbx</Source>
+      <Name>Level1Terrain\power_poles</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\power_poles.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\power_poles_0.xml</Key>
+        <Value>2012-04-23T23:00:06.4713371-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wood_tex_no_lines_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_lines.fbx</Source>
+      <Name>Level1Terrain\power_lines</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\power_lines.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\power_lines_0.xml</Key>
+        <Value>2012-04-23T23:00:07.6704057-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wire_Rough_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\house1.fbx</Source>
+      <Name>Level1Terrain\house1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\house1.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\house1_0.xml</Key>
+        <Value>2012-04-23T23:00:08.6564621-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wood_tex_0.xnb</Request>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wood_tex_no_lines_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticbase.fbx</Source>
+      <Name>smokemonster_staticbase</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\smokemonster_staticbase.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\smokemonster_staticbase_0.xml</Key>
+        <Value>2012-04-23T23:00:09.5265119-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\rust1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticeye.fbx</Source>
+      <Name>smokemonster_staticeye</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\smokemonster_staticeye.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\smokemonster_staticeye_0.xml</Key>
+        <Value>2012-04-23T23:00:09.6445186-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Eye_Tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>smokemonster_statichead.fbx</Source>
+      <Name>smokemonster_statichead</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\smokemonster_statichead.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\smokemonster_statichead_0.xml</Key>
+        <Value>2012-04-23T23:00:10.4115625-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\rust1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>moon.fbx</Source>
+      <Name>moon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\moon.xnb</Output>
+      <Time>2012-02-13T16:57:46-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\moon_0.xml</Key>
+        <Value>2012-04-23T23:00:10.508568-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\the_moon_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>plasma_gun.fbx</Source>
+      <Name>plasma_gun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\plasma_gun.xnb</Output>
+      <Time>2012-02-13T18:17:15-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\plasma_gun_0.xml</Key>
+        <Value>2012-04-23T23:00:11.3376154-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Metal_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>monster_laser.fbx</Source>
+      <Name>monster_laser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\monster_laser.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\monster_laser_0.xml</Key>
+        <Value>2012-04-23T23:00:12.1486618-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\laser_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Cloud1.fbx</Source>
+      <Name>Cloud1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Cloud1.xnb</Output>
+      <Time>2012-02-13T19:42:16-05:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Cloud1_0.xml</Key>
+        <Value>2012-04-23T23:00:13.4067338-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Cloud_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Jail_House1.fbx</Source>
+      <Name>Level1Terrain\Jail_House1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Jail_House1.xnb</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Level1Terrain\Jail_House1_0.xml</Key>
+        <Value>2012-04-23T23:00:14.4547937-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Gravel_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>LiAirBattery.fbx</Source>
+      <Name>LiAirBattery</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\LiAirBattery.xnb</Output>
+      <Time>2012-04-11T17:17:49-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\LiAirBattery_0.xml</Key>
+        <Value>2012-04-23T23:00:14.5617999-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Metal_1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere.fbx</Source>
+      <Name>Dark_Sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Dark_Sphere.xnb</Output>
+      <Time>2012-04-22T20:08:01-04:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Dark_Sphere_0.xml</Key>
+        <Value>2012-04-23T23:00:14.6748063-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Dark_Sphere_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Voice-Overs\Intro.wav</Source>
+      <Name>Voice-Overs\Intro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Voice-Overs\Intro.xnb</Output>
+      <Time>2011-12-29T20:41:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\elegy.mp3</Source>
+      <Name>Music\elegy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Music\elegy.xnb</Output>
+      <Extra>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Music\elegy.wma</Extra>
+      <Time>2011-12-29T20:49:01-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Broken World.mp3</Source>
+      <Name>Music\Broken World</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Music\Broken World.xnb</Output>
+      <Extra>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Music\Broken World.wma</Extra>
+      <Time>2012-01-23T13:36:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Carthenge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\Carthenge_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Sand1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Sand1_0.xnb</Output>
+      <Time>2012-01-28T20:02:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>test_plane.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\test_plane_0.xml</Output>
+      <Time>2011-12-27T18:25:05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sand1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Sand1_0.xnb</Output>
+      <Time>2012-01-28T20:01:53-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\road.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\road_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Gravel.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Gravel_0.xnb</Output>
+      <Time>2012-01-28T20:04:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>grass_sand.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\grass_sand_0.xml</Output>
+      <Time>2011-12-27T18:26:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GrassImage2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\GrassImage2_0.xnb</Output>
+      <Time>2012-01-28T20:04:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\truck_0.xml</Output>
+      <Time>2011-12-27T18:25:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\metal_seamless.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\metal_seamless_0.xnb</Output>
+      <Time>2012-01-28T20:05:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\oil_barrel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\oil_barrel_0.xml</Output>
+      <Time>2012-01-01T12:26:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\rust.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\rust_0.xnb</Output>
+      <Time>2011-12-31T11:34:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\cube_0.xml</Output>
+      <Time>2012-01-03T17:54:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\MainMenu.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\MainMenu\MainMenu_0.xml</Output>
+      <Time>2012-01-28T19:52:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Sand1_Grad.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Sand1_Grad_0.xnb</Output>
+      <Time>2012-01-28T20:06:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\MainMenu\Rose_0.xml</Output>
+      <Time>2012-01-28T19:53:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Rose_Texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\MainMenu\Rose_Texture_0.xnb</Output>
+      <Time>2012-01-28T20:06:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\truck002.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\truck002_0.xml</Output>
+      <Time>2012-01-28T19:55:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\sphere_0.xml</Output>
+      <Time>2012-01-19T11:47:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\sphere_tex_0.xnb</Output>
+      <Time>2012-01-19T11:42:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\SolarPanel_0.xml</Output>
+      <Time>2012-01-26T22:34:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\SolarPanel_tex_0.xnb</Output>
+      <Time>2012-01-24T16:11:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SolarPanel_Legs.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\SolarPanel_Legs_0.xml</Output>
+      <Time>2012-01-26T22:34:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rust1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\rust1_0.xnb</Output>
+      <Time>2012-01-28T20:07:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>voltmeter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\voltmeter_0.xml</Output>
+      <Time>2012-01-25T15:55:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>VoltMeter_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\VoltMeter_tex_0.xnb</Output>
+      <Time>2012-01-28T20:08:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>battery.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\battery_0.xml</Output>
+      <Time>2012-01-28T19:56:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Battery_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Battery_tex_0.xnb</Output>
+      <Time>2012-01-28T17:35:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GlowSphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\GlowSphere_0.xml</Output>
+      <Time>2012-02-04T09:55:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GlowSphere_white.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\GlowSphere_white_0.xnb</Output>
+      <Time>2012-02-04T09:55:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_poles.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\power_poles_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex_no_lines.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wood_tex_no_lines_0.xnb</Output>
+      <Time>2012-02-05T12:03:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\power_lines.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\power_lines_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wire_Rough.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wire_Rough_0.xnb</Output>
+      <Time>2012-02-05T12:26:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\house1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\house1_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Wood_tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Level1Terrain\Wood_tex_0.xnb</Output>
+      <Time>2012-02-05T14:49:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticbase.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\smokemonster_staticbase_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>smokemonster_staticeye.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\smokemonster_staticeye_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eye_Tex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Eye_Tex_0.xnb</Output>
+      <Time>2012-02-07T21:20:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>smokemonster_statichead.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\smokemonster_statichead_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>moon.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\moon_0.xml</Output>
+      <Time>2012-02-13T16:57:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>the_moon.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\the_moon_0.xnb</Output>
+      <Time>2012-02-13T16:59:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>plasma_gun.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\plasma_gun_0.xml</Output>
+      <Time>2012-02-13T18:17:15-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Metal_1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Metal_1_0.xnb</Output>
+      <Time>2012-02-07T21:12:31-05:00</Time>
+    </Item>
+    <Item>
+      <Source>monster_laser.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\monster_laser_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>laser_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\laser_tex_0.xnb</Output>
+      <Time>2012-02-13T19:13:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Cloud1_0.xml</Output>
+      <Time>2012-02-13T19:42:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud_1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Cloud_1_0.xnb</Output>
+      <Time>2012-02-13T20:10:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Terrain\Jail_House1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Level1Terrain\Jail_House1_0.xml</Output>
+      <Time>2012-04-01T16:43:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LiAirBattery.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\LiAirBattery_0.xml</Output>
+      <Time>2012-04-11T17:17:49-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Dark_Sphere_0.xml</Output>
+      <Time>2012-04-22T20:08:01-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dark_Sphere_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\Dark_Sphere_tex_0.xnb</Output>
+      <Time>2012-04-22T20:05:46-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\LeoniV0.3\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2012-04-23T22:53:43.9244567-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Marcs\Dropbox\LeoniV0.2.7.0 - 63mb\LeoniV0.3\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll</Key>
+        <Value>2012-04-23T22:53:40.8622815-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T16:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T16:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T16:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T16:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T16:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T16:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-11T22:33:15.6547686-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

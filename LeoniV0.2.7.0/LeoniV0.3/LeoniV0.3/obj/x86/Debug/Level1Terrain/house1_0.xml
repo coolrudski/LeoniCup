@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Plane_003</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3Content\Level1Terrain\house1.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>-4.30026531 0 -27.1509018 0 -27.1509018 0 4.30026531 0 0 27.48934 0 0 -33.3207932 -0.00636672974 -177.288757 1</Transform>
+    <Positions>0.986809 0.986808 -0 0.986809 -0.986808 0 -0.986808 -0.986808 0 -0.986808 0.986809 -0 -0.986808 0.986809 0.690766 -0.986808 -0.986808 0.690766 0.986809 -0.986808 0.690766 0.986809 0.986808 0.690766 0 -0.986808 1.282851 0 0.986808 1.282851 0.549521 -0.986808 0 0.245535 -0.986808 0 0.245535 -0.986808 0.690766 0.549521 -0.986808 0.690766 0.549521 -0.986808 0.495288 0.245535 -0.986808 0.495288 1 1 0 1 -1 0 -1 -1 0 -1 1 0 -1 1 0.7 -1 -1 0.7 1 -1 0.7 1 1 0.7 -0 -1 1.3 0 1 1.3 0.556867 -1 0 0.248817 -1 0 0.248817 -1 0.7 0.556867 -1 0.7 0.556867 -1 0.501909 0.248817 -1 0.501909</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 16 6 7 15 18 17 17 14 15 21 20 19 21 22 20 21 23 22 25 19 24 25 24 26 19 20 24 20 22 27 27 24 20 23 28 27 23 27 22 28 29 27 32 31 30 30 33 32 36 35 34 34 37 36 40 39 38 38 41 40 44 43 42 42 45 44 34 46 37 43 44 47 47 48 43 51 50 49 52 50 51 53 50 52 49 55 54 54 55 56 51 49 54 51 54 57 57 52 51 58 53 57 57 53 52 59 58 57</Indices>
+        <Vertices>
+          <PositionIndices>2 3 4 5 3 0 7 4 0 1 6 7 7 6 8 9 9 5 4 6 13 8 12 5 14 1 10 15 2 11 18 21 20 19 23 16 19 20 16 23 22 17 23 25 24 22 25 21 20 22 24 29 28 21 30 17 26 31 18 27</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.707083344 0.707083344 0 0.707083344 -0.707083344 0 0.6887112 -0.6111942 -0.389935 0.6887112 0.6111942 -0.389935 0.707083344 -0.707083344 0 -0.707083344 -0.707083344 0 -0.6887112 -0.6111942 -0.389935 0.6887112 -0.6111942 -0.389935 -0.707083344 -0.707083344 0 -0.707083344 0.707083344 0 -0.6887112 0.6111942 -0.389935 -0.6887112 -0.6111942 -0.389935 -0.6887112 -0.6111942 -0.389935 -0.6887112 0.6111942 -0.389935 0 0.6075625 -0.7942442 0 -0.6075625 -0.7942442 0 -0.6075625 -0.7942442 0.6887112 0.6111942 -0.389935 0.6887112 -0.6111942 -0.389935 -0.6887112 0.6111942 -0.389935 0 1 0 0 0.6075625 -0.7942442 0 1 0 0.6887112 0.6111942 -0.389935 -0.4576861 0.748619 -0.4796289 -0.707083344 0.707083344 0 -0.86211735 0.5066988 0 0.3820612 0.8937346 -0.235023037 0.707083344 0.707083344 0 0.615833 0.7878353 0 -0.707083344 -0.707083344 0 -0.6887112 -0.6111942 0.389935 -0.6887112 0.6111942 0.389935 -0.707083344 0.707083344 0 0.6887112 0.6111942 0.389935 0.707083344 0.707083344 0 -0.707083344 0.707083344 0 -0.6887112 0.6111942 0.389935 0.707083344 0.707083344 0 0.6887112 0.6111942 0.389935 0.6887112 -0.6111942 0.389935 0.707083344 -0.707083344 0 0.6887112 0.6111942 0.389935 0 0.6075625 0.7942442 0 -0.6075625 0.7942442 0.6887112 -0.6111942 0.389935 0 0.6075625 0.7942442 -0.6887112 -0.6111942 0.389935 -0.6887112 0.6111942 0.389935 0.6887112 -0.6111942 0.389935 0 -0.6075625 0.7942442 0 -1 0 0 -1 0 -0.6887112 -0.6111942 0.389935 -0.170110166 -0.9711905 -0.166722611 0.707083344 -0.707083344 0 -0.5066988 -0.86211735 0 0.19400616 -0.938322067 -0.286111027 -0.707083344 -0.707083344 0 0.7878353 -0.615833 0</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.00433 -0.5 0.00433 1.5 1.022492 1.5 1.022492 -0.5 1.167881 -0.44719 1.167882 1.55281 0.119194 1.55281 0.119194 -0.447189 -0.104658 1.825 -0.104658 -0.175 1.113753 -0.175 1.113754 1.825 -2.096109 2.797399 -2.096109 -1.654891 0.5 -1.654891 0.5 2.797399 -0.480806 0.552811 3.096109 -1.654892 3.096108 2.797398 0.425 2.175 0.425 1.510301 -0.475 0.675 0.425 1.048225 0.425 -0.825 0.722136 1.510301 1.474999 2.175 1.474999 1.510301 0.722136 1.048225 1.475 -0.825 1.475001 1.048225 0.00433 -0.5 1.022492 -0.5 1.022492 1.5 0.00433 1.5 0.119194 1.55281 1.167882 1.55281 1.167881 -0.44719 0.119194 -0.447189 -0.104658 1.825 1.113754 1.825 1.113753 -0.175 -0.104658 -0.175 -2.096109 2.797399 0.5 2.797399 0.5 -1.654891 -2.096109 -1.654891 -0.480806 0.552811 3.096109 -1.654892 3.096108 2.797398 0.425 2.175 -0.475 0.675 0.425 1.510301 0.425 1.048225 0.425 -0.825 0.722136 1.510301 1.474999 2.175 1.474999 1.510301 0.722136 1.048225 1.475 -0.825 1.475001 1.048225</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+      <Batch>
+        <Material>#Resource2</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10</Indices>
+        <Vertices>
+          <PositionIndices>10 26 30 14 11 15 31 27 14 30 31 15</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.86211735 0.5066988 0 -0.5066988 -0.86211735 0 -0.170110166 -0.9711905 -0.166722611 -0.4576861 0.748619 -0.4796289 0.615833 0.7878353 0 0.3820612 0.8937346 -0.235023037 0.19400616 -0.938322067 -0.286111027 0.7878353 -0.615833 0 -0.4576861 0.748619 -0.4796289 -0.170110166 -0.9711905 -0.166722611 0.19400616 -0.938322067 -0.286111027 0.3820612 0.8937346 -0.235023037</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.231674 1 0.768326 1 0.768326 0 0.231674 0 0.231674 1 0.231674 0 0.768326 0 0.768326 1 0.466756 0.963311 0.484068 0.962716 0.483984 0.023074 0.466756 0.024705</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>None__Wood_tex_jpg_002</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3Content\Level1Terrain\house1.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.160000011 0.160000011 0.160000011</Data>
+        <Data Key="SpecularPower" Type="float">80</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>None__Wood_tex_jpg</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Justin\documents\visual studio 2010\Projects\LeoniV0.3\LeoniV0.3\LeoniV0.3Content\Level1Terrain\house1.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.160000011 0.160000011 0.160000011</Data>
+        <Data Key="SpecularPower" Type="float">80</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\LeoniV0.3Content\Level1Terrain\Wood_tex.jpg</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">..\..\..\..\..\LeoniV0.3Content\Level1Terrain\Wood_tex_no_lines.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

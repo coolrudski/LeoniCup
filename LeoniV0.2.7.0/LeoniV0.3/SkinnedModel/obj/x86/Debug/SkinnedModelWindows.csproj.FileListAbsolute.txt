@@ -1,0 +1,12 @@
+C:\Users\Justin\Desktop\Skinned\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Justin\Desktop\Skinned\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Justin\Desktop\Skinned\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\Skinned\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justin\Desktop\Skinned\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Justin\Desktop\Skinned\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Justin\Documents\Visual Studio 2010\Projects\LeoniV0.3\LeoniV0.3\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
